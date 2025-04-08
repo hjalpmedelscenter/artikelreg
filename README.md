@@ -1,3 +1,3 @@
-# dhc-artikelreg.github.io
+# hjalpmedelscenter.github.io
 
 This is a placeholder
