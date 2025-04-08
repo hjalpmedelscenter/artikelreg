@@ -1,3 +1,3 @@
 # DHC Artikelregistreringsunderlag
 
-Detta projekt innehåller filer för DHC's interna artikelregistreringsunderlag
+Detta repo innehåller filer för DHC's interna artikelregistreringsunderlag
