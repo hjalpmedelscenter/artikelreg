@@ -1,3 +1,2 @@
-# hjalpmedelscenter.github.io
+# DHC Artikelregistreringsunderlag
 
-This is a placeholder
