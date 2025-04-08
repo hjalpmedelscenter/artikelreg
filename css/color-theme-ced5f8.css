@@ -1,0 +1,84 @@
+/* https://material-foundation.github.io/material-theme-builder/ */
+/* Source color: #ced5f8, hue 273.974, chroma 22.205, tone 85.749 */
+
+/* Search for: X X X	repalce with: X,X,X		*/
+/* (\d+)\s(\d+)\s(\d+)  $1,$2,$3				*/
+
+:root {
+	/* Light */
+  --mdui-color-primary-light: 76,92,146;
+  --mdui-color-surface-tint-color-light: 76,92,146;
+  --mdui-color-on-primary-light: 255,255,255;
+  --mdui-color-primary-container-light: 220,225,255;
+  --mdui-color-on-primary-container-light: 52,68,121;
+  --mdui-color-secondary-light: 89,94,114;
+  --mdui-color-on-secondary-light: 255,255,255;
+  --mdui-color-secondary-container-light: 222,225,249;
+  --mdui-color-on-secondary-container-light: 65,70,89;
+  --mdui-color-tertiary-light: 117,84,112;
+  --mdui-color-on-tertiary-light: 255,255,255;
+  --mdui-color-tertiary-container-light: 255,215,246;
+  --mdui-color-on-tertiary-container-light: 91,61,87;
+  --mdui-color-error-light: 186,26,26;
+  --mdui-color-on-error-light: 255,255,255;
+  --mdui-color-error-container-light: 255,218,214;
+  --mdui-color-on-error-container-light: 147,0,10;
+  --mdui-color-background-light: 250,248,255;
+  --mdui-color-on-background-light: 26,27,33;
+  --mdui-color-surface-light: 250,248,255;
+  --mdui-color-on-surface-light: 26,27,33;
+  --mdui-color-surface-variant-light: 226,225,236;
+  --mdui-color-on-surface-variant-light: 69,70,79;
+  --mdui-color-outline-light: 118,118,128;
+  --mdui-color-outline-variant-light: 198,198,208;
+  --mdui-color-shadow-light: 0,0,0;
+  --mdui-color-scrim-light: 0,0,0;
+  --mdui-color-inverse-surface-light: 47,48,54;
+  --mdui-color-inverse-on-surface-light: 241,240,247;
+  --mdui-color-inverse-primary-light: 182,196,255;
+  --mdui-color-surface-dim-light: 218,217,224;
+  --mdui-color-surface-bright-light: 250,248,255;
+  --mdui-color-surface-container-lowest-light: 255,255,255;
+  --mdui-color-surface-container-low-light: 244,243,250;
+  --mdui-color-surface-container-light: 238,237,244;
+  --mdui-color-surface-container-high-light: 233,231,239;
+  --mdui-color-surface-container-highest-light: 227,225,233;
+	/* Dark */
+  --mdui-color-primary-dark: 182,196,255;
+  --mdui-color-surface-tint-color-dark: 182,196,255;
+  --mdui-color-on-primary-dark: 29,45,97;
+  --mdui-color-primary-container-dark: 52,68,121;
+  --mdui-color-on-primary-container-dark: 220,225,255;
+  --mdui-color-secondary-dark: 194,197,221;
+  --mdui-color-on-secondary-dark: 43,48,66;
+  --mdui-color-secondary-container-dark: 65,70,89;
+  --mdui-color-on-secondary-container-dark: 222,225,249;
+  --mdui-color-tertiary-dark: 227,186,218;
+  --mdui-color-on-tertiary-dark: 67,39,64;
+  --mdui-color-tertiary-container-dark: 91,61,87;
+  --mdui-color-on-tertiary-container-dark: 255,215,246;
+  --mdui-color-error-dark: 255,180,171;
+  --mdui-color-on-error-dark: 105,0,5;
+  --mdui-color-error-container-dark: 147,0,10;
+  --mdui-color-on-error-container-dark: 255,218,214;
+  --mdui-color-background-dark: 18,19,24;
+  --mdui-color-on-background-dark: 227,225,233;
+  --mdui-color-surface-dark: 18,19,24;
+  --mdui-color-on-surface-dark: 227,225,233;
+  --mdui-color-surface-variant-dark: 69,70,79;
+  --mdui-color-on-surface-variant-dark: 198,198,208;
+  --mdui-color-outline-dark: 143,144,154;
+  --mdui-color-outline-variant-dark: 69,70,79;
+  --mdui-color-shadow-dark: 0,0,0;
+  --mdui-color-scrim-dark: 0,0,0;
+  --mdui-color-inverse-surface-dark: 227,225,233;
+  --mdui-color-inverse-on-surface-dark: 47,48,54;
+  --mdui-color-inverse-primary-dark: 76,92,146;
+  --mdui-color-surface-dim-dark: 18,19,24;
+  --mdui-color-surface-bright-dark: 56,57,63;
+  --mdui-color-surface-container-lowest-dark: 13,14,19;
+  --mdui-color-surface-container-low-dark: 26,27,33;
+  --mdui-color-surface-container-dark: 30,31,37;
+  --mdui-color-surface-container-high-dark: 41,42,47;
+  --mdui-color-surface-container-highest-dark: 52,52,58;
+}

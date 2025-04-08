@@ -1,0 +1,40 @@
+.mdui-table {
+	--mdui-color-surface-variant: var(--mdui-color-outline);
+}
+
+mdui-text-field,
+mdui-select {
+	margin-bottom: 2rem !important;
+}
+#top-app-bar,
+#navigation-drawer {
+	position: fixed !important;
+}
+
+@media only screen and (min-width: 993px)  {
+	#text-artikelbenamning {
+		--mdui-typescale-body-large-size: 2rem !important;
+		--mdui-typescale-body-large-line-height: 3rem !important;
+	}
+}
+
+#textarea-artikeldata {
+	font-family: monospace;
+}
+
+/*
+:host([variant=outlined]) .has-value .label,
+:host([variant=outlined][focused]) .label {
+	background-color: #ff0000 !important;
+}
+*/
+
+.mdui-prose h4 {
+	margin-bottom: .875em !important;
+}
+
+h4 mdui-icon {
+	margin-right: 1rem;
+	position: relative;
+	top: .25rem;
+}

@@ -1,0 +1,6 @@
+@charset "UTF-8";
+
+.col { background-color: rgba(255,128,128,0.1) !important; }
+@media only screen and (min-width: 601px)  { .col { background-color: rgba(255,255,128,0.1) !important; } }
+@media only screen and (min-width: 993px)  { .col { background-color: rgba(128,255,128,0.1) !important; } }
+@media only screen and (min-width: 1201px) { .col { background-color: rgba(128,255,255,0.1) !important; } }
